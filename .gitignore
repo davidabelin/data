@@ -26,3 +26,9 @@ Twentyone data/may be good data/ok_live_auto_dealer_data.csv
 Twentyone data/may be good data/Twenty-one_player_data.csv
 Datasets/doubledigits_train_40000
 Datasets/doubledigits_valid_4000
+SAT6/sat-6-full.mat
+SAT6/sat6annotations.csv
+SAT6/X_test_sat6.csv
+SAT6/X_train_sat6.csv
+SAT6/y_test_sat6.csv
+SAT6/y_train_sat6.csv
