@@ -35,3 +35,4 @@ SAT6/y_train_sat6.csv
 landmark_images.zip
 SAT6/sat-6-full.zip
 processed_celeba_small.zip
+*.zip
